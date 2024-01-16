@@ -54,7 +54,7 @@ public class Main {
                     break;
                 case 3:
                     int trampasAlrededor = 0;
-                    // Simular el conteo de trampas alrededor.
+
                     System.out.println("\nTiene " + trampasAlrededor + " trampas alrededor.");
                     break;
                 case 4:

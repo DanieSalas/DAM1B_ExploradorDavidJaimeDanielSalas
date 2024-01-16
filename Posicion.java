@@ -25,7 +25,7 @@ public class Posicion {
 
     public boolean esTrampa() {
         return this.coordenadaFila == 0 || this.coordenadaCol == 0 || this.coordenadaFila == 9 || this.coordenadaCol == 9;
-    }
+    }//
 
     public boolean esTesoro() {
         return this.coordenadaFila == 9 && this.coordenadaCol == 9;

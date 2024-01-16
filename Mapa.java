@@ -56,5 +56,5 @@ public class Mapa {
     return false;}
 
     public boolean esTesoro(Explorador.Posicion posicionActual) {
-    return false;}
+    return false;}//
 }
